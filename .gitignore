@@ -6,13 +6,16 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+pnpm-lock.yaml
+
+# TypeScript compiled files
+*.d.ts
+*.js
+*.js.map
 
 # Build outputs
 dist/
 build/
-*.d.ts
-*.js
-*.js.map
 
 # IDE and editor files
 .vscode/
